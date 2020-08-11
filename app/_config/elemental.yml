@@ -1,0 +1,5 @@
+Page:
+  allowed_elements:
+    - DNADesign\Elemental\Models\ElementContent
+  extensions:
+    - DNADesign\Elemental\Extensions\ElementalPageExtension

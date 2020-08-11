@@ -1,0 +1,21 @@
+{
+    "require": {
+        "dnadesign/silverstripe-elemental": "^4.4",
+        "silverstripe/recipe-cms": "^4.6"
+    },
+    "extra": {
+        "project-files-installed": [
+            "app/.htaccess",
+            "app/_config.php",
+            "app/_config/mimevalidator.yml",
+            "app/_config/mysite.yml",
+            "app/src/Page.php",
+            "app/src/PageController.php"
+        ],
+        "public-files-installed": [
+            ".htaccess",
+            "index.php",
+            "web.config"
+        ]
+    }
+}
