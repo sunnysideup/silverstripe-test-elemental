@@ -6,6 +6,5 @@ namespace {
 
   class PageController extends ContentController
   {
-
   }
 }

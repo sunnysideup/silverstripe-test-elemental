@@ -1,6 +1,6 @@
 <?php
 
 
-class MyPage extends Page {
-    
+class MyPage extends Page
+{
 }

@@ -3,11 +3,8 @@
 namespace {
 
     use SilverStripe\CMS\Model\SiteTree;
-    use SilverStripe\Core\Environment;
     use SilverStripe\Forms\CheckboxField;
-    use SilverStripe\Forms\DropdownField;
     use SilverStripe\Forms\TextField;
-    use SilverStripe\SiteConfig\SiteConfig;
 
     class Page extends SiteTree
     {
